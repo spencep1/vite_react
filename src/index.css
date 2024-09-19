@@ -1,0 +1,14 @@
+div{
+  border-radius: 1px;
+  box-shadow: 10px 10px 10px #575757;
+  border-style: none;
+  border-width: 2px;
+  padding: 10px;
+  background: linear-gradient(to top, #05CDFF, #6CC6C4);
+}
+input{
+  background: linear-gradient(to top, #05CDFF, #6CC6C4);
+}
+textarea{
+  background: linear-gradient(to top, #05CDFF, #6CC6C4);
+}
