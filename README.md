@@ -17,5 +17,3 @@ Clicking the make post button opens a UI to make a post with a title and a body.
 Clicking the view posts button will let you view posts. You need to click the load more posts buttons to load posts. It loads posts my making get requests to an API. For posts that were made my the account you are logged in as, you have an option to delete or edit your post. Clicking edit opens a interface for you to enter a new title and body similar to the make post interface. Clicking delete post will delete the post.<br /><br />
 
 Clicking the Logout button will log you out of your account.<br />
-<br /><br />
-<img width="879" alt="socialmediapicture" src="https://github.com/user-attachments/assets/8e1c858b-5aa5-4579-aeef-13d2c4f34db7">
