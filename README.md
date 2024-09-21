@@ -1,3 +1,5 @@
+![vite_react drawio](https://github.com/user-attachments/assets/499cd9ab-51cf-491f-b2d8-37feb6cbb316)
+
 Hello this is a webpage coded in react to interact with a api that stores and recieves data.<br />
 <br />
 You can naviagate the features with the buttons in the top bar<br />
